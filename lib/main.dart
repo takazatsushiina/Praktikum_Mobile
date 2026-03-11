@@ -37,7 +37,7 @@ class MainPage extends StatelessWidget {
                    Expanded(
                     flex: 10,
                     child: Text(
-                      "Hai Raju, Selamat datang di toko online kami",
+                      "Hai Aditia, Selamat datang di toko online kami",
                       style: TextStyle(
                         fontSize: 16,
                         fontWeight: FontWeight.bold,
